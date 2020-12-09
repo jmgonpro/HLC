@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProyectoHLC</string>
+    <string name="txt_nombre">Juan Manuel González Prófumo</string>
+    <string name="imagen">TODO</string>
+    <string name="txt_bienvenida">Bienvenida</string>
+    <string name="txt_opciones">Opciones</string>
+    <string name="txt_sumar_o_multiplicar">Sumar o Multiplicar</string>
+    <string name="txt_n1">Número 1:</string>
+    <string name="txt_n2">Número 2:</string>
+    <string name="bt_sumar">Sumar</string>
+    <string name="bt_multiplicar">Multiplicar</string>
+    <string name="bt_lista">Lista</string>
+    <string name="bt_agregar">Agregar</string>
+    <string name="buscar_tienda">Buscar tienda</string>
+    <string name="lista_de_la_compra">Lista de la compra</string>
+    <string name="txt_github">https://github.com/jmgonpro</string>
+    <string name="txt_mezquita">Mezquita de Córdoba</string>
+    <string name="txt_abrir_localizacion">Abrir localización</string>
+    <string name="txt_abrir_github">Abrir github</string>
+    <string name="txt_opinion_proyecto">Este proyecto ha sido creado en base a lo aprendido durante el todo el trimestre y habiendo seguido todas las práacticas guiadas, y la finalidad del proyecto es demostrar que se han adquirido esos conceptos</string>
+    <string name="txt_sobre_mi">Sobre mí</string>
+</resources>
